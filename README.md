@@ -12,9 +12,4 @@ Included in the repository are :
 </br>
 📁 Cake Ordering zip file 
 </br>
-📃 Report of Clinic Queueing System (To be ADDED)
-</br>
-</br>
-
-
-( ) -> will UPDATE SOON
+📃 Report of Clinic Queueing System 
