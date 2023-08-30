@@ -1,6 +1,5 @@
 # Cake-Ordering-System :cake:
 
-The program is meant for 
 The program will first display the menu, allowing user to view the code of cake, flavor of cake available and the prices. The system then will prompt user the cake of their choice. Next, the system then will ask the weight of the cake they prefer and the amount of cake they want.
 </br>
 </br>
